@@ -1,6 +1,11 @@
-# My name is Aadhithya A
-## First year cse student
-### At university engineering college kariyavattom
+# H1 headers
+## H2 headers
+### H3 headers
+#### H4 headers
+##### H5 headers
+###### H6 headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-![Image of Cat](http://www.baltana.com/files/wallpapers-2/Cute-Cat-Images-07756.jpg)
+``` javascript
+var myVar = "Hello, world!";
+```
